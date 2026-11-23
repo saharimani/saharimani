@@ -8,11 +8,9 @@ I'm looking for **junior data scientist / machine learning roles** in London.
 
 ### Selected work
 
-| Project | What it shows |
-|---|---|
-| [**drift-aware-credit-risk-mlops**](https://github.com/SHR-IM/drift-aware-credit-risk-mlops) | An XGBoost default model on 1.18M Lending Club loans. Drift monitoring (PSI with Benjamini–Hochberg correction, JSD), a champion–challenger promotion gate and block-bootstrap non-inferiority tests. Replayed month by month on Cloud Run + BigQuery, matching the offline run for 36/36 cohorts. |
-| [**cloud-econ-insights**](https://github.com/SHR-IM/cloud-econ-insights) | A Flask REST API (group project) that stores economic indicators and pulls live values from the World Bank API, with hashed API keys, per-user data isolation, automated tests and a Docker image for Cloud Run. |
-| [**web-scraping-portfolio**](https://github.com/SHR-IM/web-scraping-portfolio) | A Scrapy crawler for a full Stack Exchange forum, an XPath scraper for Wikipedia country data with regression analysis, and a breadth-first search route finder over a scraped border graph. |
+- **[drift-aware-credit-risk-mlops](https://github.com/SHR-IM/drift-aware-credit-risk-mlops)**: an XGBoost default model on 1.18M Lending Club loans. Drift monitoring (PSI with Benjamini–Hochberg correction, JSD), a champion–challenger promotion gate and block-bootstrap non-inferiority tests. Replayed month by month on Cloud Run + BigQuery, matching the offline run for 36/36 cohorts.
+- **[cloud-econ-insights](https://github.com/SHR-IM/cloud-econ-insights)**: a Flask REST API (group project) that stores economic indicators and pulls live values from the World Bank API, with hashed API keys, per-user data isolation, automated tests and a Docker image for Cloud Run.
+- **[web-scraping-portfolio](https://github.com/SHR-IM/web-scraping-portfolio)**: a Scrapy crawler for a full Stack Exchange forum, an XPath scraper for Wikipedia country data with regression analysis, and a breadth-first search route finder over a scraped border graph.
 
 ### Tools
 
